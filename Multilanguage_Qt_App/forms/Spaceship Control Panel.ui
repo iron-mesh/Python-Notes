@@ -247,6 +247,9 @@ background-color: rgb(0, 255, 0);</string>
         <property name="text">
          <string>Запустить звездолет</string>
         </property>
+        <property name="shortcut">
+         <string>Ctrl+C</string>
+        </property>
        </widget>
       </item>
       <item>
